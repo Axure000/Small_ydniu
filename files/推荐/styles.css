@@ -66,22 +66,12 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1229_div {
+#u1229_img {
   position:absolute;
   left:0px;
   top:0px;
   width:414px;
   height:65px;
-  background:inherit;
-  background-color:rgba(226, 106, 26, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(226, 106, 26, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
 }
 #u1229 {
   position:absolute;
@@ -89,6 +79,7 @@
   top:0px;
   width:414px;
   height:65px;
+  color:#000000;
 }
 #u1230 {
   position:absolute;
@@ -137,6 +128,7 @@
   top:6px;
   width:6px;
   height:6px;
+  color:#FFFFFF;
 }
 #u1234 {
   position:absolute;
@@ -159,6 +151,7 @@
   top:6px;
   width:6px;
   height:6px;
+  color:#FFFFFF;
 }
 #u1236 {
   position:absolute;
@@ -205,6 +198,7 @@
   top:6px;
   width:6px;
   height:6px;
+  color:#FFFFFF;
 }
 #u1240 {
   position:absolute;
@@ -221,7 +215,7 @@
   width:49px;
   height:15px;
   background:inherit;
-  background-color:rgba(226, 106, 26, 1);
+  background-color:rgba(0, 0, 0, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -259,6 +253,7 @@
   top:3px;
   width:15px;
   height:11px;
+  color:#FFFFFF;
 }
 #u1244 {
   position:absolute;
@@ -368,6 +363,7 @@
   top:4px;
   width:22px;
   height:10px;
+  color:#FFFFFF;
 }
 #u1252 {
   position:absolute;
@@ -390,6 +386,7 @@
   top:6px;
   width:5px;
   height:6px;
+  color:#FFFFFF;
 }
 #u1254 {
   position:absolute;
@@ -412,6 +409,7 @@
   top:4px;
   width:10px;
   height:10px;
+  color:#FFFFFF;
 }
 #u1256 {
   position:absolute;
@@ -23469,21 +23467,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:44px;
-  height:44px;
+  width:30px;
+  height:30px;
 }
 #u2855 {
   position:absolute;
-  left:370px;
-  top:67px;
-  width:44px;
-  height:44px;
+  left:377px;
+  top:72px;
+  width:30px;
+  height:30px;
 }
 #u2856 {
   position:absolute;
   left:2px;
-  top:14px;
-  width:40px;
+  top:7px;
+  width:26px;
   visibility:hidden;
   word-wrap:break-word;
 }
